@@ -1,0 +1,75 @@
+body{
+    font-family: 'Merriweather', serif; 
+    width: 1190px;  
+}
+  
+.container{
+   width: 1190px;
+   height: 600px;
+   background: linear-gradient(  180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('/resources/Banner\ Image.png');
+   border-radius: 16px;
+   background-size: cover;
+   background-position: center;
+   position: relative;
+   margin: 0 35px 0 37px;
+}
+.banner-text{
+padding-top: 130px;
+}
+#firtsheading{
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#secondheading{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    width: 632px;
+    margin: 0 auto;
+}
+/* second section */
+.discount-container{
+    text-align: center;
+}
+.discount-one{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 85px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    
+}
+.discount-two{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+.discount-three{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.new-year{
+    /* width: 800px;
+    height: 500px; */
+}
+
+
+
