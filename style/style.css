@@ -300,7 +300,11 @@ padding-top: 130px;
 }
 
 .first-row, .second-row{
-    
+    /* box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.1);
+    -webkit-transition-property: box-shadow, transform;
+    transition-property: box-shadow, transform;
+    -webkit-transform: scale(1.1);
+    transform: scaleX(1.1); */
     display: flex;
     gap:15px;  
     width: 396px;
@@ -309,4 +313,58 @@ padding-top: 130px;
 .second-row{
     margin-top: 15px;
 }
+
+/* section eight */
+
+.newsletter{
+    padding-top: 50px;
+    width: 1190px;
+    height: 350px;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin: 90px 35px 0 37px;
+    border-radius: 16px;
+    background-size: cover;
+   
+}
+
+.newsletter > .email{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+   
+}
+.last-paragraph{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    width: 700px;
+    margin-left: 230px;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 32px;
+}
+.deta-entry{
+    border: rgb(28, 52, 40);
+    border-radius: 50px 0 0 50px;
+    width: 300px;
+    height: 45px;
+    color: rgba(7, 2, 17, 0.30);
+    text-align: center;
+    font-family: Inter;
+    background: #b3b1b10c;
+   
+}
+.btn-subscribe{ 
+    width: 100px;
+    height: 45px;
+    border-radius: 0px 50px 50px 0px;
+    background: rgba(255, 0, 0, 0.708);
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    border: none;
+    margin-left: -5px;
+}
+
 
