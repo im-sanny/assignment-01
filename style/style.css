@@ -1,6 +1,6 @@
 body{
     font-family: 'Merriweather', serif; 
-    width: 1190px;  
+    /* width: 1190px;   */
 }
 /* first section */
 .container{
@@ -41,6 +41,7 @@ padding-top: 130px;
 /* second section */
 
 .discount-container{
+    width: 1190px;
     text-align: center;
 }
 
@@ -319,8 +320,12 @@ padding-top: 130px;
 .newsletter{
     padding-top: 50px;
     width: 1190px;
-    height: 350px;
+    height: 430px;
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+
+
     margin: 90px 35px 0 37px;
     border-radius: 16px;
     background-size: cover;
@@ -365,6 +370,48 @@ padding-top: 130px;
     font-family: Inter;
     border: none;
     margin-left: -5px;
+}
+
+/* closing sectiion */
+
+.closing{
+    margin-top: 80px;
+    width: 1300px;
+    height: 600px;
+    background: #070211;
+}
+.address{
+  color: #FFF;
+ padding: 100px 0 0 100px;
+ width: 300px;
+   
+}
+
+.contact-info{
+    text-align: right;
+    width: 270px;
+    float: right;
+   margin: -70px 100px 0 0;
+  color: #FFF;
+}
+.style{
+   width: 80%;
+   background: rgba(255, 255, 255, 0.15);
+}
+.social-media{
+    text-align: center;
+   padding-top: 40px;
+
+
+}
+small{
+    color: #FFF;
+ margin: 120px 120px 120px 120px;
+    
+}
+.btn-unsubscribe{
+    float: right;
+    margin: 40px 120px 0 0;
 }
 
 
