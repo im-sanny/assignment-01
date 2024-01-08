@@ -123,7 +123,7 @@ padding-top: 130px;
     line-height: normal;
     text-transform: uppercase;
 }
-.wecome-newyear{
+.wellcome-newyear{
     display: flex;
     width: 319.83px;
     height: 464.662px;
@@ -176,3 +176,61 @@ padding-top: 130px;
     border: none;
     margin-top: 40px;
 }
+
+/* fifth-section */
+
+.upcoming{
+    width: 1190px;
+    height: 600px;
+    border-radius: 16px;
+    background: #fff;
+    margin: 140px 35px 0 37px;
+}
+.upcoming-third{
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    line-height: normal;
+    padding-top: 220px;
+}
+.upcoming-heading{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-top: -20px;
+}
+.upcoming-p{
+    width: 300px;
+    margin-top: -20px;
+    word-spacing: 3px;
+}
+.second-deal{
+    display: block;
+    float: right;
+    margin-top: -245px;
+    width: 250px;
+    margin-bottom: 60px;
+    display: block;
+}
+.upcoming-img{
+    float: right;
+    margin-top: 10px;
+    width: 250px;
+    display: block;
+}
+.celebration-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -310px;margin-left: 380px;   
+}
+.celebration-img{
+     width: 463px;
+    height: 463px;
+    border-radius: 463px;
+    border: 15px solid #F00;
+}
+
