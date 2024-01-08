@@ -263,13 +263,50 @@ padding-top: 130px;
   margin-top: 190px;
 }
 .holiday-container{
-    width: 1320px;
+    width: 1190px;
     height: 229px;
     background-color: #F00;
     border-radius: 16px 0px 16px 16px;
-    width: 1190px;
-    height: 229;
     margin-top: -180px;
 }
- 
+
+/* seventh section */
+.products-head{
+    width: 1190px;
+    height: 600px;
+    border-radius: 16px;
+    background: #fff;
+    margin: 100px 35px 0 37px;
+}
+.product-first-head{
+    margin-top: -10px;
+     color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    text-transform: capitalize;
+}
+.product-paragraph{
+    margin-top: -20px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    width: 650px;
+}
+
+.product-photo{
+   margin: 0 35px 0 37px;
+   margin-top: -400px;
+
+}
+
+.first-row, .second-row{
+    
+    display: flex;
+    gap:15px;  
+    width: 396px;
+    height: 412px;
+}
+.second-row{
+    margin-top: 15px;
+}
 
