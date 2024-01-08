@@ -234,3 +234,43 @@ padding-top: 130px;
     border: 15px solid #F00;
 }
 
+/* sixth section */
+.holiday-discount{
+    width: 1190px;
+    height: 900px;
+    border-radius: 16px;
+    margin: 120px 35px 0 37px;
+    text-align: center;
+}
+.holiday-p{
+    color: rgba(7, 2, 17, 0.60);
+    margin-left: 25%;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    width: 600px;
+}
+.holiday-woman{
+   float: right;
+   margin-top: 17px;
+}
+.discount-box{
+    float: right;
+    margin: 100px -150px 0 0;
+}
+#box{
+  margin-top: 190px;
+}
+.holiday-container{
+    width: 1320px;
+    height: 229px;
+    background-color: #F00;
+    border-radius: 16px 0px 16px 16px;
+    width: 1190px;
+    height: 229;
+    margin-top: -180px;
+}
+ 
+
